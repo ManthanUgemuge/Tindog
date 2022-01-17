@@ -18,7 +18,7 @@ Tinder clone website for dogs.
 https://github.com/ManthanUgemuge/TinDog.git
 
 ```
-Run Directly - 
+Run Directly - https://manthanugemuge.github.io/TinDog/
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
