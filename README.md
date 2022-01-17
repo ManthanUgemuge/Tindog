@@ -15,6 +15,7 @@ Tinder clone website for dogs.
 - Download or clone the repository Website : 
 
 ```
+https://github.com/ManthanUgemuge/TinDog.git
 
 ```
 Run Directly - 
