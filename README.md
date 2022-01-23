@@ -1,6 +1,6 @@
 # TinDog
 Tinder clone website for Dogs. It was part of this Course on 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
 
 
 ## About The Project
