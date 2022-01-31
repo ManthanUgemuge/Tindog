@@ -1,7 +1,5 @@
 # TinDog
-Tinder clone website for Dogs. It was part of this Course on 
-
-
+Tinder clone website for Dogs. It was part of this Course on Udemy - The Complete 2022 Web Development Bootcamp
 
 ## About The Project
 - A Simple Web Application using HTML, CSS, JavaScript & BootStrap
