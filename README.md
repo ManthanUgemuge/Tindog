@@ -23,7 +23,7 @@ Tinder Clone website for Dogs made in Bootstrap.</br> It was part of this Course
 https://github.com/ManthanUgemuge/TinDog.git
 
 ```
-Run Directly - https://manthanugemuge.github.io/TinDog/
+Run Directly - [Live](https://manthanugemuge.github.io/TinDog/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
