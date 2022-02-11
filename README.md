@@ -13,7 +13,7 @@ Tinder Clone website for Dogs made in Bootstrap.</br> It was part of this Course
 
 
 ## Screenshots
-<img width="100%" src="screenshots/web.png">
+<img width="100%" src="screenshots/web.jpeg">
 
 ## How to use Project
 
