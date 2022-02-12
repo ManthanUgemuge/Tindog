@@ -1,5 +1,5 @@
 # TinDog
-Tinder Clone website for Dogs made in Bootstrap.</br> It was part of this Course on [Udemy](https://www.udemy.com/) - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) Course by Dr. Angela Yu.
+Tinder Clone website for Dogs made in HTML, CSS, Bootstrap.</br> It was part of this Course on [Udemy](https://www.udemy.com/) - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) Course by Dr. Angela Yu.
 
 ## About The Project
 - A Simple Web Application using HTML, CSS, JavaScript & BootStrap
