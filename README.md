@@ -4,7 +4,7 @@ Tinder Clone website for Dogs made in HTML, CSS, Bootstrap.</br> It was part of 
 ## About The Project
 - A Simple Web Application using HTML, CSS, JavaScript & BootStrap
 - Responsive on (Mobile as well as Desktop) Devices.
-- DOgs love it Wuf Wuf.
+- Dogs love it Wuf Wuf.
 
 ## Tools & Languages
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img></a>
