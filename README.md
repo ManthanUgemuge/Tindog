@@ -25,6 +25,7 @@ https://github.com/ManthanUgemuge/TinDog.git
 
 ```
 Run Directly - [Live](https://manthanugemuge.github.io/TinDog/)
+[**Download**](x-github-client://openRepo/https://github.com/ManthanUgemuge/TinDog)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
