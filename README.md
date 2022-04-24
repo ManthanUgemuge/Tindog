@@ -24,7 +24,7 @@ Tinder Clone website for Dogs made in HTML, CSS, Bootstrap.</br> It was part of 
 https://github.com/ManthanUgemuge/TinDog.git
 
 ```
-Run Directly - [**Live**](https://manthanugemuge.github.io/TinDog/)
+Run Directly - [**Live**](https://manthanugemuge.github.io/TinDog/) //
 [**Download**](https://github.com/ManthanUgemuge/TinDog/archive/refs/heads/main.zip)
 
 ## Contributing
