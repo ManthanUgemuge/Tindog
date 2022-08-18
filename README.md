@@ -1,4 +1,4 @@
-# TinDog
+# Tindog
 Tinder Clone website for Dogs made in HTML, CSS, Bootstrap.</br> It was part of this Course on [Udemy](https://www.udemy.com/) - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) Course by Dr. Angela Yu.
 
 ## About The Project
@@ -21,11 +21,11 @@ Tinder Clone website for Dogs made in HTML, CSS, Bootstrap.</br> It was part of 
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/TinDog.git
+https://github.com/ManthanUgemuge/Tindog.git
 
 ```
-Run Directly - [**Live**](https://manthanugemuge.github.io/TinDog/) //
-[**Download**](https://github.com/ManthanUgemuge/TinDog/archive/refs/heads/main.zip)
+Run Directly - [**Live**](https://manthanugemuge.github.io/Tindog/) //
+[**Download**](https://github.com/ManthanUgemuge/Tindog/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
